@@ -1,0 +1,26 @@
+[
+    {
+        "id": "P001",
+        "name": "Monthly",
+        "duration_days": 30,
+        "price": 1000.0
+    },
+    {
+        "id": "P002",
+        "name": "Quarterly",
+        "duration_days": 90,
+        "price": 2700.0
+    },
+    {
+        "id": "P003",
+        "name": "Half Yearly",
+        "duration_days": 180,
+        "price": 5000.0
+    },
+    {
+        "id": "P004",
+        "name": "Yearly",
+        "duration_days": 365,
+        "price": 9000.0
+    }
+]
