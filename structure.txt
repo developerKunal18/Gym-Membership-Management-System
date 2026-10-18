@@ -1,0 +1,33 @@
+Project features
+- Add, view, search, update, and delete members.
+- Manage membership plans and durations.
+- Register payments and calculate membership fees.
+- Mark daily attendance.
+- Check active, expired, and expiring memberships.
+- Generate revenue and attendance reports.
+- Store data locally in JSON files.
+- Validate user input and handle errors.
+
+1. Project folder structure
+Create a folder named GymMembershipManagementSystem with this structure:
+
+GymMembershipManagementSystem/
+│
+├── main.py
+├── config.py
+├── storage.py
+├── utils.py
+├── member_manager.py
+├── plan_manager.py
+├── payment_manager.py
+├── attendance_manager.py
+├── report_manager.py
+├── requirements.txt
+├── .gitignore
+├── README.md
+│
+└── data/
+    ├── members.json
+    ├── plans.json
+    ├── payments.json
+    └── attendance.json
